@@ -1,6 +1,6 @@
 # YouTube Sentiment Analyzer
 
-A web application that analyzes sentiment in YouTube video comments using AI.
+A web application that analyzes sentiment in YouTube video comments.
 
 ## Prerequisites
 
